@@ -1,5 +1,4 @@
-It is a Penguin dataset.
-The dataset consists of 5 columns.
+It is a Penguin dataset. The dataset consists of 5 columns.
 culmen_length_mm: culmen length (mm),
 culmen_depth_mm: culmen depth (mm),
 flipper_length_mm: flipper length (mm),
